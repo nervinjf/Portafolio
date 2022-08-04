@@ -240,7 +240,7 @@ body{
 
 main{
     background: var(--yellow);
-    width: calc(100% + 36rem);
+    width: calc(100% + 0 17rem);
     margin: 0 -18rem;
     padding-bottom: 3rem;
 }
@@ -361,7 +361,7 @@ main{
         justify-content: center;
         align-items: center;
         width: 25rem;
-        margin: 0;
+        margin: auto;
     }
 
     .position3 {
@@ -533,5 +533,4 @@ margin-top: 1.5rem;
 
     }
 }
-
 
