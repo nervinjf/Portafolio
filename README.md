@@ -1,3 +1,3 @@
 # Portafolio
 
-link de netlify: https://portafolio-replica.netlify.app/
+Link de netlify: https://portafolio-replica.netlify.app/
